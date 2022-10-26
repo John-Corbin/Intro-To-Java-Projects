@@ -35,35 +35,3 @@ public class Project_2 {
     }
  }
 }
-
-
-
-    
-/*String search = sc1.next();
-    
-    int count = 0;
-    String w; 
-    while((w=br.readLine())!=null)   //Reading Content from the file
-    {
-       words=w.split(" ");  //Split the word using space
-        for (String word : words) 
-        {
-               if (word.equals(sc1))   //Search for the given word
-               {
-                 count++;    //If Present increase the count by one
-               }
-        }
-    }
-    if(count!=0)  //Check for count not equal to zero
-    {
-       System.out.println("The given word is present for "+ count + " times in the file");
-    }
-    else
-    {
-       System.out.println("The given word is not present in the file");
-    }
-    
-       fr.close();
- }
-}
-    */
